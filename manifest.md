@@ -1,0 +1,4 @@
+brew 
+tmate
+git
+vim
