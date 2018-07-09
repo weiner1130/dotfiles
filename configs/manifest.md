@@ -1,4 +1,0 @@
-brew 
-tmate
-git
-vim
